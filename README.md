@@ -1,2 +1,0 @@
-# cajero-automatico
-cajero
